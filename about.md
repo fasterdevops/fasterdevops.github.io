@@ -12,14 +12,14 @@ home for tutorials and demonstrations of leading-edge software engineering and s
 Some of her favorite things are creating software, managing systems,  and setting up automation environments. She is currently employed as a Jr. Devops Engineer for a large online realty site.
 
 Some of Riley's specialties include:
-
+```
 Python
 Nginx
 Salt
 Fabric
 Ansible
 Puppet
-
+```
 
 ### Kolby
 
