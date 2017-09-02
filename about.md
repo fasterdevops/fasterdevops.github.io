@@ -13,12 +13,12 @@ Some of her favorite things are creating software, managing systems,  and settin
 
 Some of Riley's specialties include:
 
--Python
--Nginx
--Salt
--Fabric
--Ansible
--Puppet
+Python
+Nginx
+Salt
+Fabric
+Ansible
+Puppet
 
 
 ### Kolby
