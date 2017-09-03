@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setting up my first saltstack
+title: Setting up your first saltstack
 published: true
 ---
 # What is Salt?
@@ -45,8 +45,8 @@ systemctl start salt-minion
 Start your salt master-
 
 ```
-systemctl enable salt-minion
-systemctl start salt-minion
+systemctl enable salt-master
+systemctl start salt-master
 ```
 
 Assuming your minions can ping the master,now we should be able to run the following to view and accept the keys from the master. From here,you will not need to ssh directly into the minions(SSH'ing into servers is soo 2016) again. Let's view the keys asking for a connection,and accept them-
@@ -87,7 +87,7 @@ srv7.riley.science:
 ```
 Salt supports using wildcards when specifying the host, so with the above ping command if I wanted to ping every minion that started with  the hostname srv, I would replace the * with just srv*.
 
-You can find some of my own salt formulas to help you get started on my [github](http://github.com/sadminriley). 
+You can find some of my own salt formulas to help you get started on my [github](http://github.com/sadminriley/saltstack). 
 
 Other commands-
 
@@ -109,3 +109,13 @@ salt '*' state.apply require
 You can learn more about advanced usage over at [https://docs.saltstack.com/](https://docs.saltstack.com/).
 
 I hope this was helpful!
+
+### Links-
+Saltstack official repo - [http://github.com/saltstack/salt](http://github.com/saltstack/salt)
+
+Riley's Salt formulas - [http://github.com/sadminriley/saltstack](http://github.com/sadminriley/saltstack)
+
+DigitalOcean - [http://digitalocean.com](http://digitalocean.com)
+
+Salt official documentation - [https://docs.saltstack.com](https://docs.saltstack.com)
+
