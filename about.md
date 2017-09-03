@@ -2,6 +2,7 @@
 layout: page
 title: About Fasterdevops
 permalink: /about/
+published: true
 ---
 
 Our goal Fasterdevops is to make the world a better place with code, automation, and systems orchestration. This website is a
@@ -25,6 +26,10 @@ Puppet
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### Contact us
 
-[email@domain.com](mailto:email@domain.com)
+It is best to reach us on our [Facebook](http://facebook.com/fasterdevops).
+
+Or reach out to Riley at- 
+
+rileymace57[@]gmail.com
