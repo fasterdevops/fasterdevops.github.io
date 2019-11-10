@@ -5,8 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Our goal Fasterdevops is to make the world a better place with code, automation, and systems orchestration. This website is a
-home for tutorials and demonstrations of leading-edge software engineering and systems administration.
+Our goal at Fasterdevops is to make the world a better place with code, automation, and systems orchestration.
 
 ### About 
 Fasterdevops is an organization led by [Riley](http://github.com/sadminriley) and [Kolby](http://github.com/classmember) and specializes in for-profit, Linux driven .com engineering solutions. 
