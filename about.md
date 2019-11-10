@@ -11,7 +11,7 @@ home for tutorials and demonstrations of leading-edge software engineering and s
 ### About 
 Fasterdevops is an organization led by [Riley](http://github.com/sadminriley) and [Kolby](http://github.com/classmember) and specializes in for-profit, Linux driven .com engineering solutions. 
 
-Some of ourspecialities include the following -
+Some of our specialities include the following -
 
 ```
 Python
