@@ -163,13 +163,3 @@ You now have a basic, working cluster ready to deploy and modify as you please. 
 [Kubernetes](https://kubernetes.io)
 
 [AWS EKS](https://aws.amazon.com/eks/)
-
-
-
-
-
-
-
-
-
-
