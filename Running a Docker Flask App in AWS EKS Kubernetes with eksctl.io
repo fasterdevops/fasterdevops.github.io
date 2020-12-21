@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # Enter Kubernetes, Docker, Flask, and EKS.
 
