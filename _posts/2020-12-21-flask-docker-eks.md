@@ -32,6 +32,8 @@ nodeGroups:
         imageBuilder: true
 ```
 
+** You can find all the files used in the example repo to copy/paste [here.](https://github.com/sadminriley/PulpFictionQuoteAPI/tree/master/deploy)
+
 You may want to change the clustername, region, nodegroup name, or instance type/capacity.
 
 Save this as cluster.yaml and run the following - 
